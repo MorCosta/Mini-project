@@ -1,0 +1,101 @@
+header {
+    position:relative;
+}
+
+#cloud {
+    width: 100%;
+}
+
+h1 {
+    color:rgb(70, 90, 85);
+    font-family: Trebuchet MS, Helvetica, sans-serif;
+    position:absolute;
+    top: 5px;
+    left: 10px;
+    z-index: 1; 
+}
+
+#laptop {
+    width: 100%;
+}
+
+#description {
+    font-family: Trebuchet MS, Helvetica, sans-serif;
+    text-align: left;
+    margin: 0px;
+}
+
+h4 {
+    font-family: Trebuchet MS, Helvetica, sans-serif;
+    text-align: left;
+margin-left: 5px;
+}
+
+
+#nav {
+    position:absolute;
+margin-right: 0px;
+top: 35px;
+right: 10px;
+z-index: 1; 
+}
+
+body {
+    background-color:rgb(221,248,255);
+}
+
+
+textarea {
+    height: 140px;
+    width: 352px;
+}
+
+#sec2 {
+    width: 28%;
+    height: 493px;
+    margin: 40px auto;
+margin-top: 1px;
+    border: 1px solid rgb(153, 153, 253);
+    box-shadow: 5px 5px #888888;
+    position: absolute;
+
+}
+
+#form {
+    margin: 5px;
+}
+
+aside {
+    display: inline-block;
+    width: 50%;
+}
+
+#supportDesk {
+    width:140%;
+    height: 500px;
+    margin-left: 60%;
+
+}
+
+#fblogo {
+margin-left: 191%;
+}
+
+#twlogo {
+    margin-left: 80%;
+    width: 58px;
+    height: 58px;
+}
+
+footer {
+    width: 94%;
+    height: 50px;
+    margin: 40px auto;
+margin-top: 1px;
+    border: 1px solid rgb(153, 153, 253);
+    position: absolute;
+    padding: 30px;
+    font-family: Trebuchet MS, Helvetica, sans-serif;
+    text-align: center; 
+    color: #2c7bd6;
+}
